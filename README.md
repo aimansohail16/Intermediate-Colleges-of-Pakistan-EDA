@@ -28,6 +28,8 @@ The dataset includes various attributes of intermediate colleges, such as:
   * Bar plots for top Study Programs.
   * Boxplots for rating distribution by Study Program.
   * Correlation heatmap for multivariate numerical features.
+### 6. Automated EDA
+ * Used sweetviz that create an interactive HTML file with charts, stats, and comparisons.
 ## Requirements
 * Python
 * pandas
